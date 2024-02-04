@@ -1,5 +1,5 @@
 ### Hi there I'm @Kusum2000👋
-- 🔭 I’m currently working on deploying project: Analysis of customer review of different pizza chains
-- 🌱 I’m currently learning Django & AI using Tensorflow
+- 🔭 I’m currently working on deploying project: Analysis of customer reviews of different pizza chains
+- 🌱 I’m currently learning Selenium & AI using TensorFlow
 - ⚡ Interested in: Data Analytics & AI/ML
-- 🧠 Worked with- ReactJs, NodeJs, Django, MySQL, Postgres, HTML, CSS, Vanilla Js, Python, R, Tableau, C, Java
+- 🧠 Worked with-  Python, R, Tableau, ReactJs, NodeJs, Django, MySQL, Postgres, HTML, CSS, Vanilla Js
